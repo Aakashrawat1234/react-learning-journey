@@ -1,0 +1,10 @@
+.hero{
+
+    background-color:grey;
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
