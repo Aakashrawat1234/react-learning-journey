@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div className="nav">
-        <h1>Logo</h1>
+        <h1>LogoX</h1>
 <ul>
         <li>HOME</li>
         <li>ABOUT</li>
