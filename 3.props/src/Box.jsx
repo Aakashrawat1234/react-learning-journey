@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-function Box({name="Aakash Rawat",profession="Web Developer",age=21}){
+function Box({name="Aakash ",profession="Web Developer",age=21}){
   
     return(
         <>
