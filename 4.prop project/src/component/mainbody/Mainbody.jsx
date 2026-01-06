@@ -10,7 +10,7 @@ function Mainbody(){
     <div className="hero">
      <Card name="BMW" price="Rs 1.9cr" imageURl={Bmw}/>
      <Card name="Lambo" price="Rs 2cr" imageURl={Lambo}/>
-     <Card name="Ferari" price="Rs 3cr" imageURl={Ferari}/>
+     <Card name="Ferari" price="Rs 1.5cr" imageURl={Ferari}/>
      
      
     </div>
